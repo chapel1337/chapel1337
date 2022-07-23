@@ -4,6 +4,6 @@
 #### html (fluent)
 #### css (fluent)
 #### javascript (average)
-#### batch (intermediate)
+#### batch (decent)
 
 ##### chapel1337#0738
