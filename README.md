@@ -6,4 +6,6 @@
 #### javascript (average)
 #### batch (decent)
 
-##### chapel1337#0738
+
+
+##### discord: chapel1337#0738
