@@ -1,6 +1,6 @@
 ### hi
 
-### languages i currently know:
+### programming and markup languages that i currently know:
 #### html (fluent)
 #### css (fluent)
 #### javascript (average)
