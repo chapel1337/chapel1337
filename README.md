@@ -3,7 +3,8 @@
 ### programming and markup languages that i currently know:
 #### html (fluent)
 #### css (fluent)
-#### c# (decent, currently learning)
+#### c# (decent)
+#### c++ (bad, just started learning)
 #### javascript (average)
 #### batch (decent)
 #### json (decent)
