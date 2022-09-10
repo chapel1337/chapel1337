@@ -8,7 +8,7 @@
 #### c (bad, just started learning)
 #### javascript (average)
 #### batch (decent)
-#### json (decent)
+#### json (forgor)
 
 #
 
