@@ -4,11 +4,10 @@
 #### html (fluent)
 #### css (fluent)
 #### c# (decent)
-#### c++ (okay)
-#### c (bad, just started learning)
+#### c++ (decent)
+#### c (bad)
 #### javascript (average)
 #### batch (decent)
-#### json (forgor)
 
 #
 
