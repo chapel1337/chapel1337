@@ -4,7 +4,7 @@
 #### html (fluent)
 #### css (fluent)
 #### c# (decent)
-#### c++ (decent)
+#### c++ (great)
 #### c (bad)
 #### javascript (average)
 #### batch (decent)
