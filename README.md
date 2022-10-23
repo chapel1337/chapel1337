@@ -2,6 +2,6 @@
 
 ##
 
-#### for my c++ applications to run, visit this <a href = "https://github.com/chapel1337/visual-studio-cpp-redistributable">repository</a>
+#### for my c++ applications to run, visit this <a href = "https://github.com/chapel1337/visual-studio-cpp-redistributable"> repository </a>
 
-##### discord: chapel1337#0738
+##### <a href = "chapel1337.github.io/"> website </a>
