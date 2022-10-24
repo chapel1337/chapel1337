@@ -1,4 +1,4 @@
-<img src = "https://raw.githubusercontent.com/chapel1337/chapel1337.github.io/main/media/profile.png">
+<img src = "catcloseuphd-min.gif">
 
 ##
 
